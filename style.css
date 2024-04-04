@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  img>
+ { 
+  min-height: 100%;
+   widht: 100%;
+  min-widht: 100%;
+  min-height: 100%;
+ } 
+div {
+background: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1613402985_112-p-bezhevii-kosmos-fon-164.jpg'')no-repeat center;
+  background-size: cover;
+  
+}
